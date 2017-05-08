@@ -1,0 +1,10 @@
+{
+  "appenvironment": "google.com",
+  "database": "google.com",
+  "isenigma": false,
+  "browser": "firefox",
+  "DebugMode": false,
+  "delayinseconds": 1,
+  "rerun": false,
+  "slacknotifications": false
+}
